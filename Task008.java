@@ -11,7 +11,7 @@ class customer{
         System.out.println(name);
     }
 }
-public class Task08 {
+public class Task008 {
     public static void main(String[] args) {
         customer atlas = new customer("Himanshu");
         System.out.println(atlas.name);
