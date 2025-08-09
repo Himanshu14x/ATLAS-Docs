@@ -1,4 +1,4 @@
-package PracticeSet.atlaslearnings.day24;
+package PracticeSet.atlaslearnings.day24.Task01;
 
 public class LaptopConcreteBuilder implements LaptopBuilder {
     private Laptop laptop;

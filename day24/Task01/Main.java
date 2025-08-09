@@ -1,4 +1,4 @@
-package PracticeSet.atlaslearnings.day24;
+package PracticeSet.atlaslearnings.day24.Task01;
 
 public class Main {
     public static void main(String[] args) {
