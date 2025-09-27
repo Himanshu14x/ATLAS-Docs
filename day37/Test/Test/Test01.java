@@ -1,4 +1,4 @@
-package PracticeSet.atlaslearnings.day37Test.Test;
+package PracticeSet.atlaslearnings.day37.day37Test.Test;
 
 import day37Test.Main.User;
 import day37Test.Main.UserRepository;

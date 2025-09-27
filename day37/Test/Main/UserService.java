@@ -1,4 +1,4 @@
-package PracticeSet.atlaslearnings.day37Test.Main;
+package PracticeSet.atlaslearnings.day37.day37Test.Main;
 import java.util.Date;
 
 public class UserService {
